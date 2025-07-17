@@ -7,7 +7,7 @@
     },
     "servers": [
         {
-            "url": "<APP-SERVICE-URL>"
+            "url": "healthbot-f5e7h9hvf2e9a7db.westeurope-01.azurewebsites.net"
         }
     ],
     "paths": {
